@@ -49,7 +49,7 @@ The company sales revenue incresead with a significant growth of 19% in 2025. Ye
 - Leading countries show strong demand in the prescription drugs category. While higher unit sales continue to drive revenue growth, profit levels remain relatively flat, indicating margin pressure and limited operating leverage.
 
 ### Region & Pharmacy-level Insights
-![Geograpic Pharma Plus1](https://github.com/user-attachments/assets/82253591-46d4-49b6-b1b7-6e20cad1f2d8)
+<img width="887" height="325" alt="image" src="https://github.com/user-attachments/assets/8eae3b72-af90-4595-87c1-c912fa013149" />
 - Lombardy, Hamburg & Utretch region outperformed other regions with Lombardy emarging as the strongest market generating approximately €507K in revenue. These regions also show high demand for Antidepressant medications and AntiBioX ACE products
 - The top 4 performing regions maintained the average revenue of arond €200K while other regions fell slightly below this bentchmark, highlighting moderate regional performance disparities.
 - Gilderland, Netherlands lagged behind generating aproximately 4% of total revenue selling only 1.8k products
