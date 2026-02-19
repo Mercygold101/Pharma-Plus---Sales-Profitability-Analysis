@@ -21,3 +21,7 @@ An interactive Power BI report can be downloaded [**here**](https://app.powerbi.
 SQL query used in  cleaning and creating the tables can be found [here](https://github.com/Mercygold101/Pharma-Plus---Sales-Profitability-Analysis/blob/main/Phaemacy%20sales%20analysis.sql)
 
 Targeted SQL queries used in answering variuos business questions can be found [here](https://github.com/Mercygold101/Pharma-Plus---Sales-Profitability-Analysis/blob/main/Phaemacy%20sales%20analysis.sql)
+
+### Data Structure
+Pharma Plus database consist of four tables - Sales, Pharmacy, Products & Dates a total row count of 62,140 records.
+<img width="1282" height="940" alt="ERD Pharma Plus data" src="https://github.com/user-attachments/assets/0a58a88b-c6fc-47f1-ac08-86c9630588b2" />
