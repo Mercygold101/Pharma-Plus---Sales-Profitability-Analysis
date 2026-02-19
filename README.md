@@ -28,3 +28,8 @@ Targeted SQL queries used in answering variuos business questions can be found [
 ### Data Structure
 Pharma Plus database consist of four tables - Sales, Pharmacy, Products & Dates a total row count of 62,140 records.
 <img width="1282" height="940" alt="ERD Pharma Plus data" src="https://github.com/user-attachments/assets/0a58a88b-c6fc-47f1-ac08-86c9630588b2" />
+### Excecutive Summary
+** Overview of findings**
+The company sales revenue incresead with a significant growth of 19% in 2025. Year over Year comparison trends show a positive profitability of +0.07 percentage points in 2025 compared to 2024. This improvement represents meaningful value when applied to overall revenue. Seasonal analysis reveals strong sales momentum from the mid-year through last quarter, with the Average monthly revenue of 
+€719,18K in 2025.
+![pharma overview1](https://github.com/user-attachments/assets/0ffbf11b-dd69-4b5b-bb1e-0f3de5864ad9)
