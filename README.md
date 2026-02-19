@@ -37,7 +37,7 @@ The company sales revenue incresead with a significant growth of 19% in 2025. Ye
 - The business generated €4.41M in sales revenue in 2025, up from €4.22M in 2024, reflecting steady year-over-year growth.
 - Units sold increased by approximately 10,000 in 2025, indicating rising customer demand and improved market penetration.
 - Despite strong revenue growth, profit levels remained relatively flat. Further analysis shows that promotional activities had minimal impact on sales volume, indicating that discounts did not generate incremental demand. Instead, promotions reduced effective prices, contributing to margin pressure and limiting profit expansion
-- - Seasonal analysis reveals strong sales momentum from the mid-year through last quarter, with the average monthly revenue of approximately €367,6K in 2025.
+- Seasonal analysis reveals strong sales momentum from the mid-year through last quarter, with the average monthly revenue of approximately €367,6K in 2025.
 - Highest sales were recorded in May & December with €393k and €384K consecutively
 - During peak period, profit margin remained stable around 28%, indicating effective cost control and pricing discipline despite increased sales volume.
 - The ability to sustain margin during peak period shows that business can handle higher volume without losing profitabilty
@@ -47,3 +47,26 @@ The company sales revenue incresead with a significant growth of 19% in 2025. Ye
 - Germany, France, and Italy lead in sales volume, with Germany emerging as the top contributor, generating the highest share of total revenue and selling approximately 599K units.
 - Spain, Poland, and Austria lag behind in sales performance, with Austria contributing only around 8% of total revenue and selling approximately 6K units.
 - Leading countries show strong demand in the prescription drugs category. While higher unit sales continue to drive revenue growth, profit levels remain relatively flat, indicating margin pressure and limited operating leverage.
+
+### Region & Pharmacy-level Insights
+![Geograpic Pharma Plus1](https://github.com/user-attachments/assets/82253591-46d4-49b6-b1b7-6e20cad1f2d8)
+- Lombardy, Hamburg & Utretch region outperformed other regions with Lombardy emarging as the strongest market generating approximately €507K in revenue. These regions also show high demand for Antidepressant medications and AntiBioX ACE products
+- The top 4 performing regions maintained the average revenue of arond €200K while other regions fell slightly below this bentchmark, highlighting moderate regional performance disparities.
+- Gilderland, Netherlands lagged behind generating aproximately 4% of total revenue selling only 1.8k products
+- In Germany’s Bavaria region, Munich HealthPoint #097 emerged as a top performer, contributing 1.88% of global revenue with a strong profit margin of 27.83%.
+- In contrast, Vienna HealthPoint #115 in Austria underperformed, generating only 0.02% of global revenue and selling just 93 units
+- Urban pharmacies lead performance, generating approximately €2.1M in revenue, followed by suburban locations with around €1.6M. Rural pharmacies lag behind, contributing about €716K, indicating lower customer traffic and demand density outside major urban areas.
+- Medium-sized stores emerged as the top performers, generating approximately €1.99M in revenue, followed by large stores at around €1.6M. Small stores underperformed, with revenue of about €826K, suggesting limited scale and lower sales capacity.
+
+### Product & Profitability
+![Product insight pharma](https://github.com/user-attachments/assets/4bdeab63-6d3d-4bcc-b854-87099460a4e3)
+- AntiBioX ACE Inhibitor 400 mg emerged as the highest-selling drugs with over €100K in revenue and 1,607 units sold. However, its relatively low profit margin of 24.94% indicates high volume but limited profitability.
+- Dermasoft Shampoo Repair and NatureFit Omega-3 Max delivered the strongest margins at 39.07% and 38.04%, respectively. Despite their high profitability, both products recorded relatively low sales volumes.
+- Out of 220 products,17% were inactive in 2025 and generated no revenue, suggesting opportunity for inventory optimization
+- Around 20% of products underperformed against the margin benchmark, while approximately 60% maintained healthy profitability levels, indicating a generally resilient but uneven product mix.
+
+### Recommendations 
+- Although revenue growth is evident, flat profit levels indicate margin pressure driven largely by ineffective promotional strategies. The business should transition from broad discounting to targeted, ROI-driven promotions, optimize margins on high-volume products, and rebalance the product mix toward higher-margin offerings
+- The business should replicate high-performing market strategies in Gilderland, Netherlands  regions while reassessing pricing and cost structures in Lombardy, Hamburg & Utretch region
+- Reviewing pricing strategy for AntiBioX ACE Inhibitor 400 mg or supplier renegotiation and actively promoting and upselling Dermasoft Shampoo Repair and NatureFit Omega-3 Max
+- Streamline products by eliminating 17% of inactive drugs and reviewing underperforming products like AntibioX Costcostereoid cream 100 mg, reallocating resources toward high-performing and high-margin items to improve margin efficiency and working capital utilization.
