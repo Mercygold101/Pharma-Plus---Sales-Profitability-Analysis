@@ -57,7 +57,7 @@ The company sales revenue incresead with a significant growth of 19% in 2025. Ye
 - In contrast, Vienna HealthPoint #115 in Austria underperformed, generating only 0.02% of global revenue and selling just 93 units
 - Urban pharmacies lead performance, generating approximately €2.1M in revenue, followed by suburban locations with around €1.6M. Rural pharmacies lag behind, contributing about €716K, indicating lower customer traffic and demand density outside major urban areas.
 - Medium-sized stores emerged as the top performers, generating approximately €1.99M in revenue, followed by large stores at around €1.6M. Small stores underperformed, with revenue of about €826K, suggesting limited scale and lower sales capacity.
-
+  
 ### Product & Profitability
 ![Product insight pharma](https://github.com/user-attachments/assets/4bdeab63-6d3d-4bcc-b854-87099460a4e3)
 - AntiBioX ACE Inhibitor 400 mg emerged as the highest-selling drugs with over €100K in revenue and 1,607 units sold. However, its relatively low profit margin of 24.94% indicates high volume but limited profitability.
