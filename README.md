@@ -18,6 +18,6 @@ optimize, or discontinue based on revenue, margin, and volume contribution.
 
 An interactive Power BI report can be downloaded [**here**](https://app.powerbi.com/view?r=eyJrIjoiMDgwMjFkNTYtZmIwZS00Y2IzLWI0OTctNzBhMWMyYjVhZjRkIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
 
-SQL query used in  cleaning and creating the tables can be found here
+SQL query used in  cleaning and creating the tables can be found [here](https://github.com/Mercygold101/Pharma-Plus---Sales-Profitability-Analysis/blob/main/Phaemacy%20sales%20analysis.sql)
 
-Targeted SQL queries used in answering variuos business questions can be found here
+Targeted SQL queries used in answering variuos business questions can be found [here](https://github.com/Mercygold101/Pharma-Plus---Sales-Profitability-Analysis/blob/main/Phaemacy%20sales%20analysis.sql)
