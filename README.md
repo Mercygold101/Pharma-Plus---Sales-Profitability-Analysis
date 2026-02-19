@@ -50,8 +50,9 @@ The company sales revenue incresead with a significant growth of 19% in 2025. Ye
 
 ### Region & Pharmacy-level Insights
 <img width="887" height="325" alt="image" src="https://github.com/user-attachments/assets/8eae3b72-af90-4595-87c1-c912fa013149" />
+
 - Lombardy, Hamburg & Utretch region outperformed other regions with Lombardy emarging as the strongest market generating approximately €507K in revenue. These regions also show high demand for Antidepressant medications and AntiBioX ACE products
-- 
+  
 - The top 4 performing regions maintained the average revenue of arond €200K while other regions fell slightly below this bentchmark, highlighting moderate regional performance disparities.
 
 
