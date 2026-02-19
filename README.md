@@ -34,3 +34,16 @@ Overview of findings
 The company sales revenue incresead with a significant growth of 19% in 2025. Year over Year comparison trends show a positive profitability of +0.07 percentage points in 2025 compared to 2024. This improvement represents meaningful value when applied to overall revenue. Seasonal analysis reveals strong sales momentum from the mid-year through last quarter, with the Average monthly revenue of 
 €719,18K in 2025.
 ![pharma overview1](https://github.com/user-attachments/assets/0ffbf11b-dd69-4b5b-bb1e-0f3de5864ad9)
+- The business generated €4.41M in sales revenue in 2025, up from €4.22M in 2024, reflecting steady year-over-year growth.
+- Units sold increased by approximately 10,000 in 2025, indicating rising customer demand and improved market penetration.
+- Despite strong revenue growth, profit levels remained relatively flat. Further analysis shows that promotional activities had minimal impact on sales volume, indicating that discounts did not generate incremental demand. Instead, promotions reduced effective prices, contributing to margin pressure and limiting profit expansion
+- - Seasonal analysis reveals strong sales momentum from the mid-year through last quarter, with the average monthly revenue of approximately €367,6K in 2025.
+- Highest sales were recorded in May & December with €393k and €384K consecutively
+- During peak period, profit margin remained stable around 28%, indicating effective cost control and pricing discipline despite increased sales volume.
+- The ability to sustain margin during peak period shows that business can handle higher volume without losing profitabilty
+
+### Country-level Performance Insights
+![Country Pharma](https://github.com/user-attachments/assets/14ebee9c-da7c-4499-b61f-6249d8f1176b)
+- Germany, France, and Italy lead in sales volume, with Germany emerging as the top contributor, generating the highest share of total revenue and selling approximately 599K units.
+- Spain, Poland, and Austria lag behind in sales performance, with Austria contributing only around 8% of total revenue and selling approximately 6K units.
+- Leading countries show strong demand in the prescription drugs category. While higher unit sales continue to drive revenue growth, profit levels remain relatively flat, indicating margin pressure and limited operating leverage.
