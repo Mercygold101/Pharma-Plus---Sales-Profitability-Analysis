@@ -1,4 +1,4 @@
-# Pharma-Plus---Sales-Profitability-Analysis
+# Pharma-Plus-Sales & Profitability-Analysis
 ## Project Background
 Pharma Plus is an European pharmacy chain distributor operating in eight European countries - Germany, France, Italy, Belgiun, Netherland, Spain, Poland and Austria. The company utilizes Excel to record daily transactions, including geographic, pharmacy and products category information.
 
