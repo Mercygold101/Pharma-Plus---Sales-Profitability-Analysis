@@ -19,7 +19,7 @@ Detailed product performance assessment to determine which products to sell motr
 
 optimize, or discontinue based on revenue, margin, and volume contribution.
 
-An interactive Power BI report can be downloaded [**here**](https://app.powerbi.com/view?r=eyJrIjoiMDgwMjFkNTYtZmIwZS00Y2IzLWI0OTctNzBhMWMyYjVhZjRkIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
+An interactive Power BI report can be found  [**here**](https://app.powerbi.com/view?r=eyJrIjoiMDgwMjFkNTYtZmIwZS00Y2IzLWI0OTctNzBhMWMyYjVhZjRkIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
 
 SQL query used in  cleaning and creating the tables can be found [here](https://github.com/Mercygold101/Pharma-Plus---Sales-Profitability-Analysis/blob/main/Phaemacy%20sales%20analysis.sql)
 
