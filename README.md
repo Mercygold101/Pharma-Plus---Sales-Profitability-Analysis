@@ -51,11 +51,8 @@ The company sales revenue incresead with a significant growth of 19% in 2025. Ye
 ### Region & Pharmacy-level Insights
 <img width="887" height="325" alt="image" src="https://github.com/user-attachments/assets/8eae3b72-af90-4595-87c1-c912fa013149" />
 
-- Lombardy, Hamburg & Utretch region outperformed other regions with Lombardy emarging as the strongest market generating approximately €507K in revenue. These regions also show high demand for Antidepressant medications and AntiBioX ACE products
-  
+- Lombardy, Hamburg & Utretch region outperformed other regions with Lombardy emarging as the strongest market generating approximately €507K in revenue. These regions also show high demand for Antidepressant medications and AntiBioX ACE products 
 - The top 4 performing regions maintained the average revenue of arond €200K while other regions fell slightly below this bentchmark, highlighting moderate regional performance disparities.
-
-
 - Gilderland, Netherlands lagged behind generating aproximately 4% of total revenue selling only 1.8k products
   
 - In Germany’s Bavaria region, Munich HealthPoint #097 emerged as a top performer, contributing 1.88% of global revenue with a strong profit margin of 27.83%.
