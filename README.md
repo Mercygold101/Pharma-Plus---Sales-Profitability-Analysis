@@ -7,9 +7,11 @@ This report presents a comprehensive analysis of the company dataset to help sta
 ### Revenue Trend Analysis: 
 Year-over-Year performance evaluation covering Revenue, Unit Sold, Profit and Profit Margin with 
 a focus on seasonal trends and growth patterns
+
 ### Geographic and pharmacy-level performance: 
 Regional and store-level analysis highlighting where Pharma Plus is outperforming and where
 performance gaps exist across markets.
+
 ### Product & Profitability Analysis: 
 Detailed product performance assessment to determine which products to sell motre, promote, 
 optimize, or discontinue based on revenue, margin, and volume contribution.
